@@ -1,0 +1,15 @@
+/Users/sh1riyev/Projects/Casting/Casting/bin/Debug/net6.0/Casting
+/Users/sh1riyev/Projects/Casting/Casting/bin/Debug/net6.0/Casting.deps.json
+/Users/sh1riyev/Projects/Casting/Casting/bin/Debug/net6.0/Casting.runtimeconfig.json
+/Users/sh1riyev/Projects/Casting/Casting/bin/Debug/net6.0/Casting.dll
+/Users/sh1riyev/Projects/Casting/Casting/bin/Debug/net6.0/Casting.pdb
+/Users/sh1riyev/Projects/Casting/Casting/obj/Debug/net6.0/Casting.csproj.AssemblyReference.cache
+/Users/sh1riyev/Projects/Casting/Casting/obj/Debug/net6.0/Casting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sh1riyev/Projects/Casting/Casting/obj/Debug/net6.0/Casting.AssemblyInfoInputs.cache
+/Users/sh1riyev/Projects/Casting/Casting/obj/Debug/net6.0/Casting.AssemblyInfo.cs
+/Users/sh1riyev/Projects/Casting/Casting/obj/Debug/net6.0/Casting.csproj.CoreCompileInputs.cache
+/Users/sh1riyev/Projects/Casting/Casting/obj/Debug/net6.0/Casting.dll
+/Users/sh1riyev/Projects/Casting/Casting/obj/Debug/net6.0/refint/Casting.dll
+/Users/sh1riyev/Projects/Casting/Casting/obj/Debug/net6.0/Casting.pdb
+/Users/sh1riyev/Projects/Casting/Casting/obj/Debug/net6.0/Casting.genruntimeconfig.cache
+/Users/sh1riyev/Projects/Casting/Casting/obj/Debug/net6.0/ref/Casting.dll
